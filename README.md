@@ -1,4 +1,4 @@
-# Project.-Cardio-Good-Fitness. <br/>
+# Project-Cardio-Good-Fitness. <br/>
 Customer profile at CardioGood Fitness using SPSS.<br/>
 
 CONTEXT:<br/>
